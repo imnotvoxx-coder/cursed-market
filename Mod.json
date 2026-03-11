@@ -1,0 +1,14 @@
+{
+	"geode": "3.0.0-beta.1",
+	"gd": {
+		"android": "2.206"
+	},
+	"version": "v1.0.0",
+	"id": "gemini.cursed_market",
+	"name": "Cursed Market",
+	"developer": "You",
+	"description": "The most cursed shop in GD history.",
+	"resources": {
+		"sprites": ["*.png", "*.jpg"]
+	}
+}
